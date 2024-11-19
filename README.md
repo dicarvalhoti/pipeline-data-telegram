@@ -6,7 +6,7 @@
 
 Desenvolver um pipeline de dados completo para coletar, processar e analisar mensagens do Telegram em tempo real, utilizando serviços da AWS.
 
-[Notebook Kaggle](https://www.kaggle.com/code/dicarvalhoti/pipeline-dados-telegram)
+**Links:** [Notebook Kaggle](https://www.kaggle.com/code/dicarvalhoti/pipeline-dados-telegram)
 
   
 
