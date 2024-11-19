@@ -108,20 +108,6 @@ Desenvolver um pipeline de dados completo para coletar, processar e analisar men
 
 - 📦 **Parquet**: Formato de arquivo colunar otimizado para análise de big data, oferecendo compressão eficiente e desempenho superior em consultas.
 
-  
-## APIs e Frameworks
-
--  **Telegram Bot API**: Interface de programação oficial do Telegram para desenvolvimento de bots, permitindo interação automatizada com usuários.
-
-  
-
-### Ferramentas de Processamento de Dados
-
--  **PyArrow**: Biblioteca Python para processamento de dados em memória e operações de I/O, otimizada para big data.
-
--  **Parquet**: Formato de arquivo colunar otimizado para análise de big data, oferecendo compressão eficiente e desempenho superior em consultas.
-
-  
 
 ## 📈 Resultados
 
