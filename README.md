@@ -74,9 +74,6 @@ Desenvolver um pipeline de dados completo para coletar, processar e analisar men
 
 ## 🛠️ Tecnologias Utilizadas
 
-
-## 🛠️ Tecnologias Utilizadas
-
   
 
 ### 👨‍💻 Linguagens de Programação
