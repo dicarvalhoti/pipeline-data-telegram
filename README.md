@@ -10,7 +10,7 @@ Desenvolver um pipeline de dados completo para coletar, processar e analisar men
 
 ## 🏗️ Arquitetura da Solução
 
-![Arquitetura](https://raw.githubusercontent.com/dicarvalhoti/pipeline-data-telegram/main/imgs/arquitetura.png)
+![Arquitetura](https://raw.githubusercontent.com/dicarvalhoti/pipeline-data-telegram/main/imgs/architecture.png)
 
   
 
