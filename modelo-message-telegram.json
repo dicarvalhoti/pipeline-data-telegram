@@ -1,0 +1,20 @@
+{
+  "update_id": 464105021,
+  "message": {
+    "message_id": 5,
+    "from": {
+      "id": 983525336,
+      "is_bot": false,
+      "first_name": "Jeov\u00e1 Guilheme",
+      "username": "dicarvalhorb",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": -1002455617332,
+      "title": "Drapear",
+      "type": "supergroup"
+    },
+    "date": 1731955469,
+    "text": "Um modelo de como são as mensagens do Telegram em JSON."
+  }
+}
